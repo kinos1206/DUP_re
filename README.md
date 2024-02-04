@@ -1,5 +1,5 @@
-# Deep Unspervised Pixelization with some modifications.
-This model is based on [Deep Unspervised Pixelization](https://github.com/csqiangwen/Deep-Unsupervised-Pixelization).
+# Deep-Unsupervised-Pixelization with some modifications.
+This model is based on [Deep-Unsupervised-Pixelization](https://github.com/csqiangwen/Deep-Unsupervised-Pixelization).
 ## modifications
 Switching between filters, algorithms, etc. must be done by editing the code directly.
 ### model/networks.py
