@@ -1,6 +1,6 @@
 # Deep-Unsupervised-Pixelization with some modifications.
 This model is based on [Deep-Unsupervised-Pixelization](https://github.com/csqiangwen/Deep-Unsupervised-Pixelization).
-## modifications
+## Modifications
 Switching between filters, algorithms, etc. must be done by editing the code directly.
 ### model/networks.py
 In 'class ImageGradient'  
