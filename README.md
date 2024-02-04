@@ -9,10 +9,10 @@ In 'class ImageGradient'
 3. Implemented smoothing filter
 
 ### model/pixelization_model.py
-In 'def change_size'
+In 'def change_size' 
 Added several proprietary algorithms
 
-In 'def backward_all_net'
+In 'def backward_all_net' 
 Implemented function to save image to ./test_images
 
 ### train.py
